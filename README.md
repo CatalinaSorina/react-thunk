@@ -1,2 +1,2 @@
-# react-thunk
+# Redux thunk
 Testing react thunk example
